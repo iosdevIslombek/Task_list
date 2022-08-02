@@ -13,10 +13,11 @@ Project is created with:
 * Swift 5
 
 ## Images
-![Uploading Simulator Screen Shot - iPhone 13 Pro - 2022-08-02 at 13.50.31.png![Simulator Screen Shot - iPhone 13 Pro - 2022-08-02 at 13 50 16](https://user-images.githubusercontent.com/107868192/182334176-d9af66ef-1e04-4503-ac9b-56862adf70dd.png)
-…]()![Simulator Screen Shot - iPhone 13 Pro - 2022-08-02 at 13 49 12](https://user-images.githubusercontent.com/107868192/182334196-e124ce14-6c34-4f8b-8a4d-c7d9946d7f33.png)
-![Simulator Screen Shot - iPhone 13 Pro - 2022-08-02 at 13 49 07](https://user-images.githubusercontent.com/107868192/182334207-8d89accd-0c24-4073-8ca0-ce99fd02d44f.png)
-![Simulator Screen Shot - iPhone 13 Pro - 2022-08-02 at 13 48 56](https://user-images.githubusercontent.com/107868192/182334339-cbbd64df-1a5c-4502-a24d-18660984a4b9.png)
-![Simulator Screen Shot - iPhone 13 Pro - 2022-08-02 at 13 47 54](https://user-images.githubusercontent.com/107868192/182334404-06e2101f-7769-4fd1-825d-3736461aac63.png)
-![Simulator Screen Shot - iPhone 13 Pro - 2022-08-02 at 13 47 47](https://user-images.githubusercontent.com/107868192/182334466-9e181a5c-16fb-414d-8d67-04ab24140af1.png)
-![Simulator Screen Shot - iPhone 13 Pro - 2022-08-02 at 13 46 30](https://user-images.githubusercontent.com/107868192/182334548-12be430e-d5d4-45f3-93e0-9618fc572966.png)
+![1](https://user-images.githubusercontent.com/107868192/182337418-d1b088b5-50e9-406d-8675-34cac8a005f6.png)
+![2](https://user-images.githubusercontent.com/107868192/182337922-fda9214a-a5aa-4ae3-909c-370af72287f5.png)
+![3](https://user-images.githubusercontent.com/107868192/182337437-6ca741f7-0692-4d8f-a813-e8f0a8220559.png)
+![4](https://user-images.githubusercontent.com/107868192/182338046-22b52329-d3b0-405a-b347-cb7816b2ed6d.png)
+![5](https://user-images.githubusercontent.com/107868192/182337464-edb42625-83b3-4cba-9636-a160796d541b.png)
+![6](https://user-images.githubusercontent.com/107868192/182337473-755da41c-b836-4d9d-8978-90ff7c5c42ea.png)
+![7](https://user-images.githubusercontent.com/107868192/182337491-d26e8241-0634-4ea3-97d5-26c442042e88.png)
+![8](https://user-images.githubusercontent.com/107868192/182337514-dac06173-2f0e-4acf-a7c2-f382e492f3de.png)
